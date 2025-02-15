@@ -34,7 +34,7 @@ export const AppBar = ({ pages }) => {
             component="div"
             sx={{ mr: 2, display: { xs: "none", md: "flex" } }}
           >
-            CloudAcademy 2022 v3
+            Unsecure Web 2025
           </Typography>
 
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}>
